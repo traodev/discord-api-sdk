@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
     api("com.fasterxml.jackson.core:jackson-databind:2.23.0")
-    implementation("org.slf4j:slf4j-api:2.0.13")
+    implementation("org.slf4j:slf4j-api:2.0.20")
 
     testImplementation(platform("org.junit:junit-bom:5.10.2"))
     testImplementation("org.junit.jupiter:junit-jupiter")
