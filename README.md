@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JDisc
 
 JDisc is a Java library for writing Discord bots. It talks to version 10 of the Discord REST API and Gateway, and it relies on the HTTP client and WebSocket implementation that ship with the JDK. The only runtime dependencies are Jackson Databind and the SLF4J API.
@@ -111,3 +112,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Notable changes are listed in [CHANGELOG
 ## License
 
 MIT. See [LICENSE](LICENSE).
+=======
+# discord-api-sdk
+☕ A lightweight Java SDK for seamless integration with the Discord API. Built for simplicity, performance, and developer experience.
+>>>>>>> e3f494a6e30ef408e5378283a0835d2763d527b9
